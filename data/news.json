@@ -1,7 +1,7 @@
 [
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a1",
-    "category_id": "01",
+    "category_id": "1",
     "name": "HTML",
     "rating": { "number": 4.8, "badge": "Excellent" },
     "total_taken": "88M",
@@ -14,7 +14,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a2",
-    "category_id": "02",
+    "category_id": "2",
     "name": "CSS",
     "rating": { "number": 4.7, "badge": "Excellent" },
     "total_taken": "68M",
@@ -27,7 +27,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a3",
-    "category_id": "03",
+    "category_id": "3",
     "name": "Javascript",
     "rating": { "number": 4.9, "badge": "Excellent" },
     "total_taken": "428M",
@@ -40,7 +40,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a4",
-    "category_id": "04",
+    "category_id": "4",
     "name": "Tailwind",
     "rating": { "number": 4, "badge": "Excellent" },
     "total_taken": "8M",
@@ -53,7 +53,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a5",
-    "category_id": "05",
+    "category_id": "5",
     "name": "React",
     "rating": { "number": 5, "badge": "Excellent" },
     "total_taken": "188M",
@@ -67,7 +67,7 @@
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a6",
     "name": "Express",
-    "category_id": "06",
+    "category_id": "6",
     "rating": { "number": 4.2, "badge": "Excellent" },
     "total_taken": "288M",
     "title": "Express.js is a back end web application framework for building RESTful APIs.",
@@ -79,7 +79,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a7",
-    "category_id": "07",
+    "category_id": "7",
     "name": "NodeJS",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_taken": "48M",
@@ -92,7 +92,7 @@
   },
   {
     "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-    "category_id": "08",
+    "category_id": "8",
     "name": "MongoDB",
     "rating": { "number": 4.5, "badge": "Excellent" },
     "total_taken": "488M",
