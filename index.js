@@ -21,7 +21,7 @@ app.get("/category/:id", (req, res) => {
   //console.log(id);
 
   const category_news = news.filter((n) => n.category_id === id);
-  //console.log(n.category_id);
+  console.log(n.category_id);
   res.send(category_news);
 });
 
