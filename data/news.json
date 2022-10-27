@@ -9,7 +9,7 @@
     "author": {
       "name": "Jimmy Dane",
       "Duration": "7 Hours",
-      "img": "https://res.cloudinary.com/dc9bjecdl/image/upload/v1666791159/Assignment%2011/html_jktxgv.png"
+      "img": "https://res.cloudinary.com/dc9bjecdl/image/upload/v1666836026/Assignment%2011/html5_lnbglk.webp"
     }
   },
   {
@@ -22,7 +22,7 @@
     "author": {
       "name": "Donald Dane",
       "Duration": "15 Hours",
-      "img": "https://res.cloudinary.com/dc9bjecdl/image/upload/v1666791159/Assignment%2011/css_teu9vv.png"
+      "img": "https://res.cloudinary.com/dc9bjecdl/image/upload/v1666836025/Assignment%2011/tNWLMf_ur9qxx.webp"
     }
   },
   {
@@ -31,11 +31,11 @@
     "name": "Javascript",
     "rating": { "number": 4.9, "badge": "Excellent" },
     "total_taken": "428M",
-    "title": "JavaScript is an object-based scripting language which is lightweight and cross-platform.",
+    "title": "JavaScript is an object-based scripting language which is lightweight and cross-platform. JavaScript is easy to learn. ",
     "author": {
       "name": "Avijit",
       "Duration": "40 Hours",
-      "img": "https://res.cloudinary.com/dc9bjecdl/image/upload/v1666791159/Assignment%2011/js_gfr1ck.png"
+      "img": "https://res.cloudinary.com/dc9bjecdl/image/upload/v1666836433/Assignment%2011/github-repos-to-become-better-javascript-developer_ehelpn.jpg"
     }
   },
   {
@@ -61,7 +61,7 @@
     "author": {
       "name": "Carri Nel",
       "Duration": "25 Hours",
-      "img": "https://res.cloudinary.com/dc9bjecdl/image/upload/v1666791159/Assignment%2011/react_j8lavy.jpg"
+      "img": "https://res.cloudinary.com/dc9bjecdl/image/upload/v1666836025/Assignment%2011/reactcourse_pbloth.png"
     }
   },
   {
@@ -70,11 +70,11 @@
     "category_id": "06",
     "rating": { "number": 4.2, "badge": "Excellent" },
     "total_taken": "288M",
-    "title": "Express.js, or simply Express, is a back end web application framework for building RESTful APIs with Node.js, released as free and open-source software under the MIT License.",
+    "title": "Express.js is a back end web application framework for building RESTful APIs.",
     "author": {
       "name": "Daemon Hal",
       "Duration": "20 Hours",
-      "img": "https://res.cloudinary.com/dc9bjecdl/image/upload/v1666791159/Assignment%2011/express_fho5c6.png"
+      "img": "https://res.cloudinary.com/dc9bjecdl/image/upload/v1666836025/Assignment%2011/beginners-guide-to-using-express-js-and-node-js-framework_mxgwbn.png"
     }
   },
   {
@@ -87,7 +87,7 @@
     "author": {
       "name": "Angoie",
       "Duration": "5 Hours",
-      "img": "https://res.cloudinary.com/dc9bjecdl/image/upload/v1666791159/Assignment%2011/node_dticrp.png"
+      "img": "https://res.cloudinary.com/dc9bjecdl/image/upload/v1666836025/Assignment%2011/github-repos-to-become-better-javascript-developer_l8vyzb.jpg"
     }
   },
   {
@@ -100,7 +100,7 @@
     "author": {
       "name": "Aurthur",
       "Duration": "10 Hours",
-      "img": "https://res.cloudinary.com/dc9bjecdl/image/upload/v1666791159/Assignment%2011/mongodb_a66d7t.webp"
+      "img": "https://res.cloudinary.com/dc9bjecdl/image/upload/v1666836025/Assignment%2011/mongodb_1_cfp4om.webp"
     }
   }
 ]
